@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas Linear Layout</string>
+    <string name="satu">Satu</string>
+    <string name="dua">Dua</string>
+    <string name="string_dua" />
+    <string name="button">Button</string>
+</resources>
